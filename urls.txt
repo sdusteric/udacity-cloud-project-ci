@@ -1,4 +1,4 @@
-GitHub: https://github.com/stardustxx/udacity-cloud-project-ci
+GitHub: https://github.com/sdusteric/udacity-cloud-project-ci
 S3 Bucket: http://udapeople-937d2a.s3-website-us-west-2.amazonaws.com/
 CloudFront: http://d2gsuxvcrm22kv.cloudfront.net/
 Backend URL: http://ec2-34-208-83-13.us-west-2.compute.amazonaws.com:3030/
